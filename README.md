@@ -208,10 +208,6 @@ movie-sentiment-analyzer/
 ├── 📖 README.md                  # Project documentation
 ├── 📊 notebooks/                 # Jupyter notebooks for training
 │   └── model_training.ipynb      # Model development notebook
-├── 📂 assets/                    # Static assets
-│   └── screenshots/              # App screenshots
-└── 🧪 tests/                     # Unit tests
-    └── test_app.py               # Application tests
 ```
 
 ---
@@ -230,29 +226,7 @@ movie-sentiment-analyzer/
 
 ---
 
-## 🔬 **Technical Details**
 
-### **🧪 Model Training Process:**
-
-1. **Data Preprocessing:**
-   - Loaded IMDB dataset (25K training, 25K testing)
-   - Tokenized and padded sequences to 500 words
-   - Created word index mapping
-
-2. **Model Architecture:**
-   ```python
-   model = Sequential([
-       Embedding(vocab_size, 128),
-       SimpleRNN(128, activation='relu'),
-       Dense(1, activation='sigmoid')
-   ])
-   ```
-
-3. **Training Configuration:**
-   - Batch Size: 32
-   - Epochs: 10
-   - Validation Split: 20%
-   - Early Stopping: Enabled
 
 ### **⚡ Performance Metrics:**
 
@@ -284,9 +258,6 @@ movie-sentiment-analyzer/
 ### **🔧 Technical Improvements:**
 
 - [ ] Model optimization and quantization
-- [ ] Docker containerization
-- [ ] Cloud deployment (AWS/GCP/Azure)
-- [ ] A/B testing framework
 - [ ] Performance monitoring
 
 ---
