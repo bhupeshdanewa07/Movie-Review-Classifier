@@ -310,9 +310,9 @@ MIT License - Feel free to use, modify, and distribute!
 
 🚀 **AI/ML Engineer** | 🎯 **Deep Learning Enthusiast** | 💡 **Innovation Driver**
 
-[![GitHub](https://img.shields.io/badge/GitHub-bhupeshdanewa-black?style=for-the-badge&logo=github)](https://github.com/bhupeshdanewa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhupeshdanewa)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/bhupeshdanewa)
+[![GitHub](https://img.shields.io/badge/GitHub-bhupeshdanewa-black?style=for-the-badge&logo=github)](https://github.com/bhupeshdanewa07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhupesh-danewa)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/bhupesh_danewa)
 
 *"Turning words into insights, one review at a time"*
 
